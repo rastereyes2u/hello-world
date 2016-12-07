@@ -1,2 +1,2 @@
 # hello-world
-Just another repository
+This is the worst Intro Tutorial ever constructed
